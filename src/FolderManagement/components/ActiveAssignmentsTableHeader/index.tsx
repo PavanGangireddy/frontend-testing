@@ -1,0 +1,3 @@
+import ActiveAssignmentsTableHeader from './ActiveAssignmentsTableHeader'
+
+export default ActiveAssignmentsTableHeader

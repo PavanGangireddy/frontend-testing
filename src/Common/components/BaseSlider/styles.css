@@ -1,0 +1,54 @@
+.slick-track {
+   display: flex !important;
+   align-items: center;
+}
+
+.slick-slider {
+   height: 100%;
+   background-color: transparent;
+   display: flex;
+   align-items: center;
+}
+
+.slick-arrow {
+   width: 14px;
+   height: 24px;
+   cursor: pointer;
+}
+
+.slick-next {
+   margin-left: 25px;
+}
+
+.slick-prev {
+   margin-right: 25px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+   content: '';
+}
+
+.slick-disabled {
+   opacity: 0.2;
+   cursor: default;
+}
+
+.slick-dots {
+   bottom: -35px;
+}
+
+.slick-dots li {
+   margin: 0 4px;
+}
+
+.slick-dots li button:before {
+   color: rgba(11, 105, 255, 0.1);
+   opacity: 1;
+   font-size: 8px;
+}
+
+.slick-dots li.slick-active button:before {
+   color: #0055dc;
+   opacity: 1;
+}

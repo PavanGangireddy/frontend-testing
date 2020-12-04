@@ -1,0 +1,13 @@
+{
+   "aws_access_key_id": "ASIAY2WMCL5CBVSVAHFU",
+   "aws_session_token": "IQoJb3JpZ2luX2VjEA8aCmFwLXNvdXRoLTEiRjBEAiA7qex1U8m6sxfeCmK7BEbx28Zn1ZJoG4k7oYyuGGEToAIgPcWZhNW0B8nW2ZZjE8w7ohQGxK6yrG8vBT4Wxz4Q5mcqiwQI2P//////////ARAAGgw2MDcwOTIxMDUwMjgiDO07xjyv8B644PsQ1irfA5h7LVO4afumJc3x6VDLnoxX8LLn7h1AEmvg+kkHWjEUWUdtXexpLSmoCBYC3a3KNiBX0UjP4l8u2KNizXsyZy9z7ixRhPh4h2qid4+o9OP3w4D2b2dnbSUJsCLr8EvE+x+vXInPRxH7vHaNkRI6M0cguelZnkWIXeK2EUxSJcm3bNRS78eDj2LSIQ1ITl227hOymqOHjB+eioJ1/4ohKxjCawMScKnsnuJ1BVNdNrEi7PiXWHG93F1AtecJdo8Coab9u/4AP9uCjQ02LkUfjGyjzbDPPKbYHAvvRsDKpSo9QUjhsxJuWLWlMiKRjSO9Kxkad22Dfr672melIpnJGkIodSzR9Tk6JPvz2V6f0oMCxKMoxrbOvFRC80Wc8iMZZR1pi/wziMMGq4zwkAjiMSTF4Csqx9wqedy6DodiNv1BRpqHnrFIKUM01u1IaHbpvssFwmEkkFIZkCdgppf+qFwSQZqg7IAHnL4AIRemKAXyhuU1KjgLZQkBaLiE88piw4+qm4eJgKkN+aYqu79N7EMKTprsp91MioL0zzDo4rTYcEid745ON8uKrjE2BRe6YLK4ziQ3IXSZu9KjNxKLj0cwnVoeyhSlFFYUr1MRehKuVF9CO7BD40wFtCTbK7AmMLaxsPkFOswCeF+Y/hZsXXG+BfHc3+Ye4z/nGKPKq83mVA/ZWVNSHopbx78SEk/RtN5wp/GPClhZ+QlmJaO/hzFu04BG2TSEnclfRRIG/+LisK4f4Wq3b9usftI3MiQI+bUdm2PYv1ZXSVBF0EOReImC2jPEpm97Vu8gwpq9BQMHQP27rAio2a+ip+6POcnYPePrgIchQnLrISnMHZDmoudebsHRAPykpdHzDWdJWLkiT57wYOQlv7im7zTZ8kd//jqW9TrbQjTBkSP9GfAXyraIBfyxcuP/AL9SeFPbX8I04uyrXZtkwXLnpBKyGg7yIGZTB2S91feSA6NyGm/plY+NZz/z67aYmPVR+0zPEk94ZZhWI1U28kziHGUBJE9rD1wjwQg+pq5sWLJa/nCNT6ZN8rtgtNU/Jw9TbUHrMlL7ZbsRm3f3Csfe4Q7O+yDP5TUHtH8=",
+   "bucket_name": "bss-backend-media-static",
+   "cloudfront_domain": "d2rj3iig8nko29.cloudfront.net",
+   "expiration": "2022-08-06 21:20:30",
+   "folder_name": "beta/media/uploads/",
+   "object_acl": "public-read",
+   "protocol": "https",
+   "region_name": "ap-south-1",
+   "secret_access_key": "yXz2rFP9btaAYLpTupObIHOb+1d0Z2ocjNs46RrR",
+   "url_type": "cloudfront"
+}

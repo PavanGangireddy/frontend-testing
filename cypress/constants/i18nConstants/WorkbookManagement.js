@@ -1,0 +1,5 @@
+export const PAGE_TITLE = 'Getting ready for industry 4.0'
+export const PAGE_DESCRIPTION = 'Proper mindset'
+export const HOME = 'Home'
+export const SHARED_WITH_ME = 'Shared with me'
+export const IB_HUBS = 'iB Hubs'

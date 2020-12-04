@@ -1,0 +1,3 @@
+import BaseWorkbookAndFolderInfoItem from './BaseWorkbookAndFolderInfoItem'
+
+export default BaseWorkbookAndFolderInfoItem

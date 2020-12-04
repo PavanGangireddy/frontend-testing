@@ -1,0 +1,84 @@
+{
+   "workbooks": [
+      {
+         "workbook_id": "0",
+         "workbook_name": "Workbook 1",
+         "is_pinned": true,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": true
+      },
+      {
+         "workbook_id": "1",
+         "workbook_name": "Workbook 2",
+         "is_pinned": true,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": false
+      },
+      {
+         "workbook_id": "2",
+         "workbook_name": "Workbook 3",
+         "is_pinned": true,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": false
+      },
+      {
+         "workbook_id": "3",
+         "workbook_name": "Workbook 4",
+         "is_pinned": true,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": true
+      },
+      {
+         "workbook_id": "4",
+         "workbook_name": "Workbook 5",
+         "is_pinned": false,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": false
+      },
+      {
+         "workbook_id": "5",
+         "workbook_name": "Workbook 6",
+         "is_pinned": false,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": true
+      }
+   ],
+   "folders": [
+      {
+         "folder_id": "0",
+         "folder_name": "Folder 1",
+         "is_starred": true,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": true,
+         "folder_type": "NORMAL"
+      },
+      {
+         "folder_id": "1",
+         "folder_name": "Folder 2",
+         "is_starred": true,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": false,
+         "folder_type": "NORMAL"
+      },
+      {
+         "folder_id": "2",
+         "folder_name": "Folder 3",
+         "is_starred": false,
+         "last_modified": "2020-08-26 15:20:24.556550",
+         "is_published_by_us": false,
+         "folder_type": "NORMAL"
+      }
+   ],
+   "path": [
+      {
+         "folder_id": "0",
+         "folder_name": "Home",
+         "folder_type": "PROJECT"
+      },
+      {
+         "folder_id": "10",
+         "folder_name": "Orange",
+         "folder_type": "NORMAL"
+      }
+   ]
+}

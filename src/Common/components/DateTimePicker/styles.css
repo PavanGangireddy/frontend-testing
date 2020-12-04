@@ -1,0 +1,103 @@
+.react-datepicker {
+   display: flex;
+   justify-content: start;
+}
+.react-datepicker__time-box {
+   height: 280px !important;
+}
+
+.react-datepicker__time-container {
+   width: 100%;
+   height: 280px !important;
+}
+
+.react-datepicker__time-box {
+   width: 100% !important;
+   height: 240px !important;
+}
+
+.react-datepicker__time-list {
+   overflow: auto;
+   scrollbar-width: none;
+}
+.react-datepicker__input-container > input {
+   text-align: center;
+   box-sizing: border-box;
+   width: 210px;
+   height: 35px !important;
+   line-height: 1.69;
+   letter-spacing: 0.15px;
+   font-size: 12px;
+   justify-content: space-between;
+   color: #101010;
+   height: 46.768px;
+   padding-left: 26px;
+   border-radius: 4.928px;
+   border: solid 0.9px rgba(0, 0, 0, 0.32);
+   background-color: #ffffff;
+}
+.react-datepicker-ignore-onclickoutside {
+   border: solid 1.5px #1665d8;
+   outline: none;
+   box-shadow: 0 4.928px 4.928px 0 rgba(21, 59, 185, 0.1);
+}
+
+.dateFieldStyles {
+   text-align: center;
+   box-sizing: border-box;
+   width: 100%;
+   height: 40px !important;
+   line-height: 1.69;
+   letter-spacing: 0.15px;
+   font-size: 16px;
+   justify-content: space-between;
+   color: #101010;
+   height: 46.768px;
+   padding-left: 15px;
+   border-radius: 4.928px;
+   border: solid 0.9px rgba(0, 0, 0, 0.32);
+   background-color: #ffffff;
+}
+
+.dateFieldStyles:focus {
+   border: solid 1.5px #1665d8;
+   outline: none;
+   box-shadow: 0 4.928px 4.928px 0 rgba(21, 59, 185, 0.1);
+}
+
+.dateFieldDisabled {
+   font-family: 'HKGrotesk';
+   font-size: 14px;
+   font-weight: 500;
+   letter-spacing: 0.2px;
+   color: rgba(53, 78, 110, 0.6);
+   background-color: #fbfcfc;
+}
+
+.dateFieldStylesOnError {
+   border: solid 10px #ff6b3c;
+}
+
+.dateFieldStylesOnError:focus {
+   border: solid 1.5px #1665d8;
+   outline: none;
+   box-shadow: 0 4.928px 4.928px 0 rgba(21, 59, 185, 0.1);
+}
+
+.react-datepicker__time-box {
+   overflow-y: hidden;
+   scrollbar-width: none;
+   -ms-overflow-style: none;
+}
+.react-datepicker__time-box::-webkit-scrollbar {
+   display: none;
+}
+
+.react-datepicker__time-list::-webkit-scrollbar {
+   display: none;
+}
+.react-datepicker__time-list {
+   overflow-y: hidden;
+   scrollbar-width: none;
+   -ms-overflow-style: none;
+}

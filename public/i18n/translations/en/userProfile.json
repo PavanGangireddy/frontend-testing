@@ -1,0 +1,85 @@
+{
+   "loginForm": {
+      "hiTherePleaseLogin": "Hi there, please log in",
+      "login": "Login",
+      "email": "Email",
+      "emailPlaceholder": "luke@j-academy.com",
+      "password": "Password",
+      "passwordPlaceholder": "Enter Password",
+      "forgotPassword": "Forgot Password?",
+      "loginImage": "login Image",
+      "emailNotVerified": "Email not verified",
+      "singUpLinkLabel": "Don't have an Account?",
+      "signUpHere": "Sign up here"
+   },
+   "signUp": {
+      "signUp": "Sign up",
+      "fullName": "Full name",
+      "enterFullName": "Enter full name",
+      "enterEmail": "Enter email",
+      "confirmPassword": "Confirm Password",
+      "createAccount": "Create account",
+      "alreadyHaveAnAccount": "Already have an account?",
+      "passwordsNotMatch": "Password and Confirm password didn't match",
+      "required": "Required",
+      "productiveImageAlt": "Be Productive",
+      "enterPassword": "Enter Password",
+      "reEnterThePassword": "Re-enter the password"
+   },
+   "forgotPasswordForm": {
+      "forgotPassword": "Forgot Password",
+      "instruction": "We’ll email you instructions to reset your password.",
+      "email": "Email",
+      "emailPlaceholder": "luke@j-academy.com",
+      "send": "Send",
+      "returnToLogin": "Return to Login",
+      "emailSentSuccessfully": "Email Sent Successfully"
+   },
+   "resetPasswordForm": {
+      "resetYourPassword": "Reset your Password",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "updatePassword": "Update Password",
+      "returnToLogin": "Return to Login",
+      "passwordsDidntMatch": "Passwords didn't match",
+      "passwordSuccessfullyUpdated": "Password Successfully updated",
+      "resetPasswordImage": "Reset Password Image"
+   },
+   "linkExpiredForm": {
+      "linkExpired": "Link Expired",
+      "pleaseEnterYourEmailAddressBelowToReceiveAPasswordResetLinkAgain": "Please enter your email address below to receive a password reset link again.",
+      "resetPassword": "Reset Password",
+      "email": "Email",
+      "emailPlaceholder": "luke@j-academy.com",
+      "send": "Send",
+      "returnToLogin": "Return to Login",
+      "emailSentSuccessfully": "Email Sent Successfully",
+      "linkExpiredImage": "Link Expired Image"
+   },
+   "quote": {
+      "focusOnBeingProductive": "Focus on being productive",
+      "insteadOfBusy": "instead of busy"
+   },
+   "verifyEmailForm": {
+      "congratulations": "Congratulations!",
+      "verifySuccessMessage": "Your Email has been successfully verified",
+      "loginPage": "Go To Login Page",
+      "sendVerificationEmail": "Send Verification Email",
+      "productiveImage": "Productive Image"
+   },
+   "verifyEmail": {
+      "verifyYourEmail": "Verify your email",
+      "emailSentMessage": "We have sent link to your email ID",
+      "emailNotReceived": "Didn't receive the link?",
+      "resendLink": "Resend link",
+      "emailSentSuccessMessage": "We have sent a link to your e-mail, Please check",
+      "emailSentFailureMessage": "Something went wrong, please try again!"
+   },
+   "invalidPhoneNumberOrEmail": "Invalid Phone or email",
+   "passwordShouldHaveMinimumLength": "Password should have minimum length",
+   "invalidEmail": "Invalid Email",
+   "quoteLineOne": "Focus on being productive",
+   "quoteLineTwo": "instead of busy",
+   "emailAlreadyVerified": "Your email already verified",
+   "retry": "Retry"
+}

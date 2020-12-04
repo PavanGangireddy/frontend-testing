@@ -1,0 +1,175 @@
+import React, { Component } from 'react'
+import { observer } from 'mobx-react'
+import { computed, observable } from 'mobx'
+import { withTranslation } from 'react-i18next'
+
+import 'styled-components/macro'
+import { MORE_PAGES_TEXT } from '../../constants/PaginationNavigationConstants'
+import { WithTranslation } from '../../types'
+import {
+   Container,
+   PageContainer,
+   PageText,
+   MainContainer,
+   ItemsCountText
+} from './styledComponents'
+
+interface Props extends WithTranslation {
+   totalNoOfItems: number
+   itemsPerPage: number
+   currentPage: number
+   maxDisplayPagesCount: number
+   onPagePress: (page: number) => void
+   className?: string
+   paginationContainerCSS?: React.CSSProperties
+}
+
+@observer
+class PaginationNavigation extends Component<Props> {
+   @observable currentPageNumber: number
+
+   constructor(props) {
+      super(props)
+      const { currentPage } = this.props
+      this.currentPageNumber = currentPage
+   }
+
+   setCurrentPageNumber = (page: number): void => {
+      this.currentPageNumber = page
+   }
+
+   isActivePage = (page): boolean => {
+      const { currentPage } = this.props
+      return page === currentPage
+   }
+
+   onPressPage = (page: number): void => {
+      const { onPagePress } = this.props
+      this.setCurrentPageNumber(page)
+      onPagePress(page)
+   }
+
+   isEnabledPage = (page): boolean => page !== MORE_PAGES_TEXT
+
+   @computed get displayPages(): Array<string | number> {
+      const { currentPage, maxDisplayPagesCount } = this.props
+      const totalPagesCount = this.getTotalPagesCount()
+      const pages: Array<string | number> = []
+      if (maxDisplayPagesCount >= totalPagesCount) {
+         for (let i = 1; i <= totalPagesCount; i += 1) {
+            pages.push(i)
+         }
+         return pages
+      }
+
+      if (currentPage < maxDisplayPagesCount - 2) {
+         for (let i = 0; i < maxDisplayPagesCount; i++) {
+            if (i === maxDisplayPagesCount - 2) {
+               pages.push(MORE_PAGES_TEXT)
+            } else if (i === maxDisplayPagesCount - 1) {
+               pages.push(totalPagesCount)
+            } else {
+               pages.push(i + 1)
+            }
+         }
+         return pages
+      }
+
+      if (currentPage > totalPagesCount - maxDisplayPagesCount + 3) {
+         for (let i = 0; i < maxDisplayPagesCount; i++) {
+            if (i === 1) {
+               pages.push(MORE_PAGES_TEXT)
+            } else if (i === 0) {
+               pages.push(i + 1)
+            } else {
+               pages.push(totalPagesCount - maxDisplayPagesCount + i + 1)
+            }
+         }
+         return pages
+      }
+
+      for (let i = 0; i < maxDisplayPagesCount; i++) {
+         const midValue =
+            maxDisplayPagesCount % 2 === 0
+               ? Math.round(maxDisplayPagesCount / 2)
+               : Math.round(maxDisplayPagesCount / 2) - 1
+
+         if (i === 1 || i === maxDisplayPagesCount - 2) {
+            pages.push(MORE_PAGES_TEXT)
+         } else if (i === 0) {
+            pages.push(i + 1)
+         } else if (i === maxDisplayPagesCount - 1) {
+            pages.push(totalPagesCount)
+         } else if (i === midValue) {
+            pages.push(currentPage)
+         } else {
+            pages.push(currentPage - midValue + i)
+         }
+      }
+
+      return pages
+   }
+
+   renderPages = (): React.ReactNode => {
+      if (this.getTotalPagesCount() <= 1) {
+         return null
+      }
+      return this.displayPages.map(page => (
+         <PageContainer
+            key={page}
+            onClick={() => {
+               if (this.isEnabledPage(page))
+                  this.onPressPage(parseInt(page.toString()))
+            }}
+            isEnabled={this.isEnabledPage(page)}
+            isActive={this.isActivePage(page)}
+            data-testid={page}
+         >
+            <PageText isActive={this.isActivePage(page)}>{page}</PageText>
+         </PageContainer>
+      ))
+   }
+
+   @computed get itemCount(): string {
+      const { itemsPerPage, totalNoOfItems, t } = this.props
+      const totalItems = this.currentPageNumber * itemsPerPage
+      const itemsCompleted = (this.currentPageNumber - 1) * itemsPerPage + 1
+      if (totalItems >= totalNoOfItems) {
+         return `${itemsCompleted} ${t(
+            'common:paginationNavigation.to'
+         )} ${totalNoOfItems} ${t(
+            'common:paginationNavigation.of'
+         )} ${totalNoOfItems}`
+      }
+      return `${itemsCompleted} ${t(
+         'common:paginationNavigation.to'
+      )} ${totalItems} ${t('common:paginationNavigation.of')} ${totalNoOfItems}`
+   }
+
+   getTotalPagesCount = (): number => {
+      const { totalNoOfItems, itemsPerPage } = this.props
+      return Math.ceil(totalNoOfItems / itemsPerPage)
+   }
+
+   render(): React.ReactNode {
+      const {
+         className,
+         itemsPerPage,
+         totalNoOfItems,
+         paginationContainerCSS
+      } = this.props
+      if (!totalNoOfItems || itemsPerPage >= totalNoOfItems) {
+         return null
+      }
+      return (
+         <MainContainer className={className} css={paginationContainerCSS}>
+            <ItemsCountText>{this.itemCount}</ItemsCountText>
+            <Container>{this.renderPages()}</Container>
+         </MainContainer>
+      )
+   }
+}
+
+export default withTranslation('translations', { withRef: true })(
+   PaginationNavigation
+)

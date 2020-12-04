@@ -1,0 +1,7 @@
+.baseModalStyles {
+   align-self: center;
+}
+
+.baseModalStyles:focus {
+   outline: none;
+}

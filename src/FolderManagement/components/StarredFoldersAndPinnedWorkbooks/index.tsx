@@ -1,0 +1,3 @@
+import StarredFoldersAndPinnedWorkbooks from './StarredFoldersAndPinnedWorkbooks'
+
+export default StarredFoldersAndPinnedWorkbooks

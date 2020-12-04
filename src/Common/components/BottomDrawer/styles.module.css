@@ -1,0 +1,18 @@
+.bottomDrawerModalStyles {
+   width: 100vw;
+   height: max-content;
+   max-height: 84vh;
+   overflow-y: auto;
+   background-color: white;
+   padding: 16px 24px;
+   align-self: flex-end;
+   border-radius: 4px 4px 0 0;
+}
+
+.bottomDrawerUnderlayStyles {
+   display: flex;
+   justify-content: center;
+   /* Increasing z-index for the modal because,
+   it is rendering above the card details modal */
+   z-index: 1060 !important;
+}

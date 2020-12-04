@@ -1,0 +1,485 @@
+{
+   "workbook_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+   "workbook_name": "Workbook 1",
+   "assignment_duration": {
+      "total_time_in_seconds": 2000,
+      "left_time_in_seconds": 5
+   },
+   "workbook_status": "IN_PROGRESS",
+   "evaluation_type": "CARDS_SEGREGATION",
+   "total_pages": [
+      {
+         "page_id": "3fa85f64-5717-4562-b3fc-2c963f66afa743543543",
+         "page_name": "Page 1"
+      }
+   ],
+   "page": {
+      "page_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+      "page_name": "Page 1",
+      "page_objective": "Page Objective Sample Data",
+      "page_description": "Page Description Sample Data",
+      "page_status": "IN_PROGRESS",
+      "score_details": null,
+      "lists": [
+         {
+            "list_id": "78378373",
+            "list_name": "List 1",
+            "sections": [
+               {
+                  "section_id": "3fa85f64-5717-4562-b3fc-2c963f66afa9",
+                  "section_name": "Section 1",
+                  "cards": [
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afa0sfsdfsd",
+                        "card_title": "1",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2d963f66afb0fsdfsd",
+                        "card_title": "2",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 2,
+                        "label": "#d7dfe9",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afc0fsdfs",
+                        "card_title": "3",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 3,
+                        "label": "#fde4ce",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afd0fsdfs",
+                        "card_title": "4",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 4,
+                        "label": "#bcd9e9",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afe0fdsfds",
+                        "card_title": "5",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": null,
+                        "label": "#a08ac7",
+                        "card_style_type": "DEFAULT"
+                     }
+                  ]
+               },
+               {
+                  "section_id": "4fa85f64-5717-4562-b3fc-2c963f66afb0",
+                  "section_name": "Section 2",
+                  "cards": [
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afa0dfsfds",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afb0fsdfsd",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afc0fsdfds",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afd0fsfsd",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afe0fsdfds",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ga85f64-5717-4562-b3fc-2c963f66afa0fdsfds",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ha85f64-5717-4562-b3fc-2c963f66afb0fsdfds",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ia85f64-5717-4562-b3fc-2c963f66afc0fsdfds",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ja85f64-5717-4562-b3fc-2c963f66afd0fdsfds",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ka85f64-5717-4562-b3fc-2c963f66afe0fsdfsd",
+                        "card_title": "Drilldown assignment for blue team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "list_id": "3fa85f64-5717-4562-b3fc-2c963f66afa",
+            "list_name": "List 2",
+            "sections": [
+               {
+                  "section_id": "3fa85f64-5717-4562-b3fc-2c963f66afa90",
+                  "section_name": "Section 1",
+                  "cards": [
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afa0fsdvdvfds",
+                        "card_title": "White team Drilldown assignment",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2d963f66afb0fsvcxdfds",
+                        "card_title": "White team Drilldown assignment",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afc0vdfxsbg",
+                        "card_title": "White team Drilldown assignment",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afd0fdvfd",
+                        "card_title": "White team Drilldown assignment",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afe0vfdvfd",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     }
+                  ]
+               },
+               {
+                  "section_id": "4fa85f64-5717-4562-b3fc-2c963f66afb01",
+                  "section_name": "Section 2",
+                  "cards": [
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afa0vfdbvfdv",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afb0vxcfvf",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afc0vfvfd",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afd0vfcxvfx",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afevfxcvfcx0",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ga85f64-5717-4562-b3fc-2c963f66afa0vfxcvfdx",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ha85f64-5717-4562-b3fc-2c963f66afbvfxvfd0",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ia85f64-5717-4562-b3fc-2c963f66acdxcdxvcfc0",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ja85f64-5717-4562-b3fc-2c963f66afvcxvcxd0",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ka85f64-5717-4562-b3fc-2c963f66avcxvcxfe0",
+                        "card_title": "Drilldown assignment for blue team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "list_id": "3fa85f64-5717-4562-b3fc-2c963f66af",
+            "list_name": "List 3",
+            "sections": [
+               {
+                  "section_id": "3fa85f64-5717-4562-b3fc-2c963f66afa92",
+                  "section_name": "Section 1",
+                  "cards": [
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afa0vcdxcvx",
+                        "card_title": "White team Drilldown assignment",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2d963f66afb0vcxvcx",
+                        "card_title": "White team Drilldown assignment",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afcvcxvxcvcx0",
+                        "card_title": "White team Drilldown assignment",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afd0vxcvxc",
+                        "card_title": "White team Drilldown assignment",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afe0vxcvxc",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     }
+                  ]
+               },
+               {
+                  "section_id": "4fa85f64-5717-4562-b3fc-2c963f66afb03",
+                  "section_name": "Section 2",
+                  "cards": [
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afa0vcxvx",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afb0vcxvcx",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afcvcxvxc0",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f66afdvxcv0",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3fa85f64-5717-4562-b3fc-2c963f6vxcv6afe0",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ga85f64-5717-4562-b3fc-2c963f66afa0vxcvxc",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ha85f64-5717-4562-b3fc-2c963f66afvcxvxb0",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ia85f64-5717-4562-b3fc-2c963f66vxcvcxafc0",
+                        "card_title": "Drilldown assignment for green team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ja85f64-5717-4562-b3fc-2c963f66vxcvxcafd0",
+                        "card_title": "Card",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     },
+                     {
+                        "card_id": "3ka85f64-5717-4562-b3fc-2c963f6vcxvxc6afe0",
+                        "card_title": "Drilldown assignment for blue team",
+                        "has_attachments": true,
+                        "has_notes": true,
+                        "priority": 1,
+                        "label": "#c1fef6",
+                        "card_style_type": "DEFAULT"
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}

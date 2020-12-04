@@ -1,0 +1,1 @@
+export const RESEND_OTP_TIME_IN_SECONDS = 20

@@ -1,0 +1,1 @@
+export const INCREASE_TEXT_INPUT_WIDTH_IN_PIXELS = 8

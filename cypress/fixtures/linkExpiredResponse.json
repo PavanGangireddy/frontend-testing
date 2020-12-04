@@ -1,0 +1,5 @@
+{
+   "response": "Oops! the verification link has expired",
+   "http_status_code": 419,
+   "res_status": "LINK_HAS_EXPIRED"
+}

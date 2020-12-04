@@ -1,0 +1,25 @@
+{
+   "workbooks": [
+      {
+         "workbook_id": "0",
+         "workbook_name": "Workbook 1"
+      },
+      {
+         "workbook_id": "1",
+         "workbook_name": "Workbook 2"
+      },
+      {
+         "workbook_id": "2",
+         "workbook_name": "Workbook 3"
+      },
+      {
+         "workbook_id": "3",
+         "workbook_name": "Workbook 4"
+      },
+      {
+         "workbook_id": "4",
+         "workbook_name": "Workbook 5"
+      }
+   ],
+   "learnings_folder_id": "123"
+}

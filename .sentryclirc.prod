@@ -1,0 +1,6 @@
+[defaults]
+org=backend-developers
+project=bss-project-prod-frontend
+
+[auth]
+token=8e35711050af45e0bf8366c31bb3cda610303b7d8b3f45d7b3820ada77453856

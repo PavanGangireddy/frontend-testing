@@ -1,0 +1,93 @@
+{
+   "app": {
+      "learnReact": "Learn  React"
+   },
+   "pageNotFound": {
+      "404": "404",
+      "pageNotFoundText": "Page Not Found",
+      "noManPlaceText": "Oops! You've wandered into no man's land.",
+      "goHome": "Go to Home",
+      "imageAlt": "No Room"
+   },
+   "common": {
+      "errorViewTitle": "Oops! Something Went Wrong",
+      "errorViewDescription": "We're having some trouble completing your request. Please try again.",
+      "connectionLost": "Connection lost",
+      "internetConnection": "Please check your internet connection",
+      "validationErrorMessages": {
+         "fieldRequired": "Required",
+         "invalidURL": "Invalid URL"
+      },
+      "fallbackUI": {
+         "failureText": "We're having some trouble completing your request. We are looking into it."
+      },
+      "header": {
+         "home": "Home",
+         "profilePicAltText": "Profile Picture",
+         "logout": "Logout"
+      },
+      "failureView": {
+         "retry": "Retry"
+      },
+      "dateTimePicker": {
+         "selectDateAndTime": "Select Date and Time"
+      },
+      "dropDown": {
+         "noOptionsToselect": "No options to select"
+      },
+      "confirmationAlert": {
+         "yes": "Yes",
+         "no": "No"
+      }
+   },
+   "loginForm": {
+      "invalidPhoneNumberOrEmail": "invalidPhoneNumberOrEmail",
+      "passwordShouldHaveMinimumLength": "passwordShouldHaveMinimumLength"
+   },
+   "colorPalette": {
+      "label": "Label",
+      "addLabel": "Add Label"
+   },
+   "shareFolderOrWorkbook": {
+      "shareHeading": "Share",
+      "shareInputPlaceholder": "Share to someone..",
+      "shareButtonText": "Share",
+      "shareSuccessMessage": "Shared Successfully!"
+   },
+   "paginationNavigation": {
+      "to": "to",
+      "of": "of"
+   },
+   "progressBar": {
+      "uploading": "Uploading",
+      "percentage": "%"
+   },
+   "errorMessage": {
+      "noError": ""
+   },
+   "deleteDrawer": {
+      "deleteConfirmationMessage": "Are you sure you want to delete",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "this": "this"
+   },
+   "statusLabel": {
+      "submitted": "Submitted",
+      "yetToStart": "Yet&nbsp;to&nbsp;Start",
+      "inProgress": "In&nbsp;Progress"
+   },
+   "chromeBanner": {
+      "forBestExperienceViewInLatestVersionOfChrome": "For best experience view in latest version of Chrome"
+   },
+   "customDrawer": {
+      "customConfirmationMessage": "Are you sure you want to submit",
+      "cancel": "Cancel"
+   },
+   "shareLock": {
+      "share": "Share",
+      "infoMessage": "Will be available to you when you're in a group activity"
+   },
+   "avatar": {
+      "alt": "profile"
+   }
+}

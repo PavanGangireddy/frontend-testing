@@ -1,0 +1,106 @@
+{
+   "workbooks": [
+      {
+         "workbook_id": "0",
+         "workbook_name": "Workbook 1",
+         "is_pinned": true,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/a3065fe0-4684-467e-92be-cac24c304c5c@3x.png"
+         }
+      },
+      {
+         "workbook_id": "1",
+         "workbook_name": "Workbook 2",
+         "is_pinned": true,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/6e5e700e-e676-4ceb-a8d8-ed66191d072c@3x.png"
+         }
+      },
+      {
+         "workbook_id": "2",
+         "workbook_name": "Workbook 3",
+         "is_pinned": true,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/6e5e700e-e676-4ceb-a8d8-ed66191d072c@3x.png"
+         }
+      },
+      {
+         "workbook_id": "3",
+         "workbook_name": "Workbook 4",
+         "is_pinned": true,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/a3065fe0-4684-467e-92be-cac24c304c5c@3x.png"
+         }
+      },
+      {
+         "workbook_id": "4",
+         "workbook_name": "Workbook 5",
+         "is_pinned": false,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/6e5e700e-e676-4ceb-a8d8-ed66191d072c@3x.png"
+         }
+      },
+      {
+         "workbook_id": "5",
+         "workbook_name": "Workbook 6",
+         "is_pinned": false,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/a3065fe0-4684-467e-92be-cac24c304c5c@3x.png"
+         }
+      }
+   ],
+   "folders": [
+      {
+         "folder_id": "0",
+         "folder_name": "Folder 1",
+         "is_starred": true,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/6e5e700e-e676-4ceb-a8d8-ed66191d072c@3x.png"
+         }
+      },
+      {
+         "folder_id": "1",
+         "folder_name": "Folder 2",
+         "is_starred": true,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/6e5e700e-e676-4ceb-a8d8-ed66191d072c@3x.png"
+         }
+      },
+      {
+         "folder_id": "2",
+         "folder_name": "Folder 3",
+         "is_starred": false,
+         "last_modified": "27-06-2020",
+         "owner": {
+            "name": "Test",
+            "url": "https://cdn.zeplin.io/5f0341c2b569f66c57cb6e8f/assets/a3065fe0-4684-467e-92be-cac24c304c5c@3x.png"
+         }
+      }
+   ],
+   "path": [
+      {
+         "folder_id": "0",
+         "folder_name": "Test 1"
+      },
+      {
+         "folder_id": "1",
+         "folder_name": "Orange"
+      }
+   ]
+}

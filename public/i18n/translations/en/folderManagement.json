@@ -1,0 +1,119 @@
+{
+   "listViewHeaderLabels": {
+      "name": "Name",
+      "lastModified": "Last Modified",
+      "owner": "Owner",
+      "more": "More"
+   },
+   "home": {
+      "sortBy": "Sort By",
+      "all": "All",
+      "pinnedWorkbooks": "Pinned Workbooks",
+      "starredFolders": "Starred Folders",
+      "home": "home",
+      "moveFolder": "Move Folder",
+      "moveWorkbook": "Move Workbook",
+      "deletionMessageForFolder": "Are you sure you want to delete this folder?",
+      "deletionMessageForProject": "Are you sure you want to delete this project?",
+      "deletionMessageForWorkbook": "Are you sure you want to delete this workbook?",
+      "deletionSuccessMessage": "is deleted",
+      "isMoved": "is moved",
+      "folder": "folder",
+      "workbook": "workbook",
+      "createNew": "Create New",
+      "createWorkbookOrFolderSucceesMessage": "Created Successfully!",
+      "projects": "Projects",
+      "yourProjects": "Your Projects",
+      "project": "project",
+      "welcome": "Welcome",
+      "firstTimeUserMessage": "Lets start with projects. Project is a place where you can organize your thoughts. Start your journey by creating a project.",
+      "emptyStarredFoldersAndFilesMessageHeader": "Your starred folders and files will appear here",
+      "emptyStarredFoldersAndFilesMessageDescription": "You can star a file by clicking more on the left top corner of a file and selecting mark it starred. Similarly you can remove a file from here by unstarring it from the same menu.",
+      "starredFoldersAndFiles": "Starred Folders and Files",
+      "welcomeBack": "Welcome back"
+   },
+   "sharedWithMe": {
+      "sharedWithMe": "Shared With Me"
+   },
+   "folderMenuContainer": {
+      "rename": "Rename",
+      "removeFromStarred": "Remove from starred",
+      "share": "Share",
+      "viewDetails": "View details",
+      "Delete": "Delete"
+   },
+   "noDataView": {
+      "startYourJourneyByCreating": "Start your journey by creating",
+      "aNewWorkbook/Folder": "a new Workbook/ Folder",
+      "addNewFolder": "Create New Folder",
+      "addNewWorkbook": "Create New Workbook",
+      "noDataViewImage": "No Data View Image",
+      "noSharedData": "No data is shared with you",
+      "newWorkbook": "Create Workbook",
+      "newFolder": "Create Folder",
+      "createProject": "Create Project",
+      "newProject": "a new Project",
+      "emptyProjectMessage": "Organize your project by creating<br/> folders and workbooks",
+      "nothingInHere": "Nothing in here"
+   },
+
+   "rename": {
+      "renameSuccesMessage": "Successfully updated Name"
+   },
+   "sideNavbar": {
+      "logout": "Log Out",
+      "logoutConfirmationMessage": "Are you sure you want to logout?",
+      "logoutSuccessMessage": "You have successfully logged out",
+      "learningPoints": "Learning Points: 10",
+      "achieveLearningPointsToUnlockFeatures": "Achieve Learning Points to Unlock Features .",
+      "mergeCard": "Merge card",
+      "versioning": "Versioning",
+      "collaboration": "Collaboration",
+      "groupActivity": "Group activity"
+   },
+   "trash": {
+      "trash": "Trash",
+      "restoreSuccessMessage": "is restored",
+      "deletionMessageForFolder": "Are you sure you want to delete this folder permanently?",
+      "deletionMessageForWorkbook": "Are you sure you want to delete this workbook permanently?",
+      "emptyTrashMessage": "Are you sure you want to empty the trash?",
+      "emptyTrashSuccessToastMessage": "All files in Trash are deleted",
+      "emptyTrash": "Empty Trash",
+      "folderPermanently": "folder permanently",
+      "workbookPermanently": "workbook permanently",
+      "delete": "Delete",
+      "trashFiles": "trash files"
+   },
+   "publishDashboard": {
+      "nameOfWorkbook": "Name Of Workbook",
+      "publishedDateAndTime": "Published Date & Time",
+      "totalSelectedUsers": "Total Selected Users",
+      "publishedUsers": "Published Users"
+   },
+   "assignments": {
+      "ongoing": "Ongoing (Active)",
+      "upcoming": "Upcoming",
+      "completed": "completed",
+      "upcomingWorkbookErrorToastMessage": "You can't access the upcoming assignment workbook",
+      "assignments": "Assignments",
+      "deadline": "Deadline",
+      "score": "Score",
+      "submittedDateAndTime": "submitted date & time",
+      "status": "Status",
+      "availableOn": "available on",
+      "submittedOn": "submitted on",
+      "objective": "Objective",
+      "instructions": "Instructions",
+      "startAssignment": "Start Assignment",
+      "noAssignments": "currently no {{assignmentType}} Assignments available for you"
+   },
+   "learning": {
+      "learning": "Learning"
+   },
+   "personalProjects": {
+      "personalProjectsTitle": "Personal Projects!",
+      "thisFeatureIsLockedForYou": "This feature is locked for you.",
+      "itWillBeAvailableToYouOnEarning_1000LearningPoints": "It will be available to you on earning 1000 Learning Points.",
+      "createProject": "Create Project"
+   }
+}

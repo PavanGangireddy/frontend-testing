@@ -1,0 +1,64 @@
+{
+   "comments": [
+      {
+         "comment_id": "2",
+         "comment_content": "hi ra ",
+         "created_at": "2020-07-18 5:57:43.8872",
+         "total_replies_count": 2,
+         "is_editable": false,
+         "author": {
+            "user_id": "user_id",
+            "name": "name",
+            "profile_pic_url": "https://picsum.photos/200"
+         },
+         "multimedia": [
+            {
+               "multimedia_id": "01",
+               "format_type": "IMAGE",
+               "url": "https://picsum.photos/100",
+               "thumbnail_url": "https://picsum.photos/100"
+            }
+         ]
+      },
+      {
+         "comment_id": "0",
+         "comment_content": "hi ra ",
+         "created_at": "2020-07-18 5:57:43.8872",
+         "total_replies_count": 0,
+         "is_editable": true,
+         "author": {
+            "user_id": "user_id",
+            "name": "name",
+            "profile_pic_url": "https://picsum.photos/200"
+         },
+         "multimedia": [
+            {
+               "multimedia_id": "02",
+               "format_type": "IMAGE",
+               "url": "https://picsum.photos/100",
+               "thumbnail_url": "https://picsum.photos/100"
+            }
+         ]
+      },
+      {
+         "comment_id": "1",
+         "comment_content": "hi bro!.",
+         "created_at": "2020-07-18 5:57:43.8872",
+         "total_replies_count": 1,
+         "is_editable": false,
+         "author": {
+            "user_id": "user_id",
+            "name": "name",
+            "profile_pic_url": "https://picsum.photos/200"
+         },
+         "multimedia": [
+            {
+               "multimedia_id": "03",
+               "format_type": "IMAGE",
+               "url": "https://picsum.photos/100",
+               "thumbnail_url": "https://picsum.photos/100"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "card_details": [
+      {
+         "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afa0sfsdfsd",
+         "card_title": "This is RGUKT RKV 1",
+         "notes": "This is sample notes 1",
+         "priority": 3,
+         "label": "#fde4ce",
+         "due_datetime": "2012-12-12, 12:12:28",
+         "attachments": [
+            {
+               "attachment_id": "3fa85f64-5717-4562-b3fcfdsfs-cffdsfdssfds",
+               "attachment_url": "http://www.google.com",
+               "creation_datetime": "12/02/2020"
+            },
+            {
+               "attachment_id": "3fa85f65-5717-4562-b3dassafc-fdsfdsfdsgfdsgsd",
+               "attachment_url": "http://www.google.com",
+               "creation_datetime": "12/02/2020"
+            }
+         ]
+      },
+      {
+         "card_id": "4fa85f64-5717-4562-b3fc-2d963f66afb0fsdfsd",
+         "card_title": "This is RGUKT RKV 2",
+         "notes": "This is sample notes 2",
+         "priority": 5,
+         "label": "#fde4ee",
+         "due_datetime": "2012-12-12, 12:12:28",
+         "attachments": [
+            {
+               "attachment_id": "3fa85f64-5717-4562-b3fc-cffdsfdssfds",
+               "attachment_url": "http://www.google.com",
+               "creation_datetime": "12/02/2020"
+            },
+            {
+               "attachment_id": "3fa85f65-5717-4562-b3fc-fdsfdsfdsgfdsgsd",
+               "attachment_url": "http://www.google.com",
+               "creation_datetime": "12/02/2020"
+            }
+         ]
+      },
+      {
+         "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afc0fsdfs",
+         "card_title": "This is RGUKT RKV 3",
+         "notes": "This is sample notes 3",
+         "priority": 2,
+         "label": "#fd34ee",
+         "due_datetime": "2012-12-12, 12:12:28",
+         "attachments": []
+      },
+      {
+         "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afd0fsdfs",
+         "card_title": "This is RGUKT RKV 4",
+         "notes": "This is sample notes 4",
+         "priority": 1,
+         "label": "#2d42ee",
+         "due_datetime": "2012-12-12, 12:12:28",
+         "attachments": [
+            {
+               "attachment_id": "3fa85f64-5717-45fdsfsd62-b3fc-cffdsfdssfds",
+               "attachment_url": "http://www.google.com",
+               "creation_datetime": "12/02/2020"
+            }
+         ]
+      }
+   ]
+}

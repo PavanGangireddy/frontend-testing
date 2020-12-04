@@ -1,0 +1,12 @@
+{
+   "cookie": {
+      "policy": "policy",
+      "signature": "signature",
+      "key_pair_id": "keypairid",
+      "expires_in": "expiresin"
+   },
+   "access_token": "accesstoken",
+   "refresh_token": "refreshtoken",
+   "user_id": "9966133092",
+   "expires_in": "expiresin"
+}

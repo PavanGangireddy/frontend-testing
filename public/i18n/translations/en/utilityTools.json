@@ -1,0 +1,9 @@
+{
+   "checklist": {
+      "noChecklistItems": "No Checklist Items Yet",
+      "addCheckList": "Add Check List",
+      "checklistAddedSuccessfully": "Checklist added successfully",
+      "checklistRemovedSuccessfully": "Checklist removed successfully",
+      "enterCheckListItemName": "Enter checklist item name"
+   }
+}

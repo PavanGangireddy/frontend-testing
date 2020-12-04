@@ -1,0 +1,38 @@
+{
+   "pinned_workbooks": [
+      {
+         "workbook_id": "0",
+         "workbook_name": "Workbook 1"
+      },
+      {
+         "workbook_id": "1",
+         "workbook_name": "Workbook 2"
+      },
+      {
+         "workbook_id": "2",
+         "workbook_name": "Workbook 3"
+      },
+      {
+         "workbook_id": "3",
+         "workbook_name": "Workbook 4"
+      },
+      {
+         "workbook_id": "6",
+         "workbook_name": "Workbook 7"
+      }
+   ],
+   "starred_folders": [
+      {
+         "folder_id": "0",
+         "folder_name": "Folder 1"
+      },
+      {
+         "folder_id": "1",
+         "folder_name": "Folder 2"
+      },
+      {
+         "folder_id": "3",
+         "folder_name": "Folder 4"
+      }
+   ]
+}

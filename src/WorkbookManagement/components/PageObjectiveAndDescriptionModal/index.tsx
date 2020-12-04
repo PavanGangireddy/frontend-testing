@@ -1,0 +1,3 @@
+import PageObjectiveAndDescriptionModal from './PageObjectiveAndDescriptionModal'
+
+export default PageObjectiveAndDescriptionModal

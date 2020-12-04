@@ -1,0 +1,56 @@
+{
+   "folders": [
+      {
+         "folder_id": "1",
+         "folder_name": "folder 1",
+         "is_starred": true
+      },
+      {
+         "folder_id": "2",
+         "folder_name": "folder 2",
+         "is_starred": false
+      },
+      {
+         "folder_id": "3",
+         "folder_name": "folder 3",
+         "is_starred": false
+      },
+      {
+         "folder_id": "4",
+         "folder_name": "folder 4",
+         "is_starred": true
+      },
+      {
+         "folder_id": "5",
+         "folder_name": "folder 5",
+         "is_starred": false
+      }
+   ],
+   "workbooks": [
+      {
+         "workbook_id": "w1",
+         "workbook_name": "workbook 1",
+         "is_pinned": true
+      },
+      {
+         "workbook_id": "w2",
+         "workbook_name": "workbook 2",
+         "is_pinned": false
+      },
+      {
+         "workbook_id": "w3",
+         "workbook_name": "workbook 3",
+         "is_pinned": false
+      },
+      {
+         "workbook_id": "w4",
+         "workbook_name": "workbook 4",
+         "is_pinned": false
+      },
+      {
+         "workbook_id": "w5",
+         "workbook_name": "workbook 5",
+         "is_pinned": true
+      }
+   ]
+}

@@ -1,0 +1,14 @@
+.moveModalPopUp {
+   align-self: center;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+   .moveModalPopUp {
+      width: 100%;
+      margin: -5px;
+      border: none;
+      min-height: 100vh;
+      align-self: flex-start;
+      background-color: white;
+   }
+}

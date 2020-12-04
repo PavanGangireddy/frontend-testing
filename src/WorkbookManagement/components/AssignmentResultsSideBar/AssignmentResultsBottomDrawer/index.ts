@@ -1,0 +1,2 @@
+import AssignmentResultsBottomDrawer from './AssignmentResultsBottomDrawer'
+export default AssignmentResultsBottomDrawer

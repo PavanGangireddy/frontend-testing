@@ -1,0 +1,12 @@
+{
+   "roles": [
+      {
+         "role": "MANAGER",
+         "display_name": "Manager"
+      },
+      {
+         "role": "VIEWER",
+         "display_name": "Viewer"
+      }
+   ]
+}

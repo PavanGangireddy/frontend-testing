@@ -1,0 +1,49 @@
+.reply-input-section-textarea__control {
+   transition: 0.3s ease-in-out;
+   border: none;
+   font-family: 'HKGrotesk';
+   font-size: 16px;
+   line-height: 1.5;
+}
+.reply-input-section-textarea__input {
+   display: flex;
+   align-items: center;
+   background-color: transparent;
+   border-radius: 4px;
+   transition: 0.3s ease-in-out;
+   padding: 4px;
+   font-family: 'HKGrotesk';
+   font-size: 16px;
+   line-height: 1.5;
+   color: #323f4b;
+}
+.reply-input-section-textarea__input:focus {
+   outline: none;
+   border: none;
+}
+.reply-input-section-textarea__input::placeholder {
+   color: #9aa5b1;
+   font-size: 16px;
+}
+
+.reply-input-section-textarea__highlighter {
+   padding: 4px;
+}
+
+.reply-input-section-textarea__suggestions__list {
+   border: 1px solid #cbd2d9;
+   background-color: #fff;
+   font-size: 14px;
+   min-width: 320px;
+   height: 400px;
+   overflow-y: auto;
+   box-shadow: 5px 5px 10px lightgray;
+}
+
+.reply-input-section-textarea__suggestions__item {
+   display: flex;
+}
+
+.reply-input-section-textarea__suggestions__item — focused {
+   background-color: rgba(9, 103, 210, 0.08);
+}

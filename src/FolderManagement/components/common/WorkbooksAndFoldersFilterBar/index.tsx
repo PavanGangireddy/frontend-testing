@@ -1,0 +1,3 @@
+import WorkbooksAndFoldersFilterBar from './WorkbooksAndFoldersFilterBar'
+
+export default WorkbooksAndFoldersFilterBar

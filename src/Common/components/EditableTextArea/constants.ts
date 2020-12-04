@@ -1,0 +1,1 @@
+export const INCREASE_TEXT_AREA_HEIGHT_IN_PIXELS = 5

@@ -1,0 +1,19 @@
+{
+   "checklist": [
+      {
+         "checklist_item_id": "CI01",
+         "text": "ELP for the task",
+         "is_checked": true
+      },
+      {
+         "checklist_item_id": "CI02",
+         "text": "Time frame for each task",
+         "is_checked": true
+      },
+      {
+         "checklist_item_id": "CI03",
+         "text": "Self-review of the task",
+         "is_checked": false
+      }
+   ]
+}

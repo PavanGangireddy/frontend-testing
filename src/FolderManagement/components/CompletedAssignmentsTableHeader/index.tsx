@@ -1,0 +1,3 @@
+import CompletedAssignmentsTableHeader from './CompletedAssignmentsTableHeader'
+
+export default CompletedAssignmentsTableHeader

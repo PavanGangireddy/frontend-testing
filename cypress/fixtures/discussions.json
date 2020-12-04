@@ -1,0 +1,61 @@
+{
+   "discussions": [
+      {
+         "discussion_id": "01",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore dsadxs magnadddffcd aliqua ncididunt ut labore et dolore dsadxs magnadddffcd aliqua. ",
+         "title": "Discussions for testing Cypress",
+         "created_at": "2020-07-18 5:57:43.8872",
+         "author": {
+            "user_id": "user_id",
+            "name": "name",
+            "profile_pic_url": "https://picsum.photos/200"
+         },
+
+         "is_editable": true,
+         "total_comments_count": 14
+      },
+      {
+         "discussion_id": "04",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore dsadxs magnadddffcd aliqua ncididunt ut labore et dolore dsadxs magnadddffcd aliqua. ",
+         "title": "Aeritatis et quasi architecto beatae vitae dicta sunt explicabo gaps architecto beatae vitae dicta sunt explicabo gaps",
+         "created_at": "2020-07-18 5:57:43.8872",
+         "author": {
+            "user_id": "user_id",
+            "name": "name",
+            "profile_pic_url": "https://picsum.photos/200"
+         },
+
+         "is_editable": false,
+         "total_comments_count": 1
+      },
+      {
+         "discussion_id": "02",
+         "description": "<p>dsfgsdfgdsfgs@wetgerghj</p><p>ghkkhg<strong>hgjfghjj<em>ghjgfhj</em>ghjgh</strong>ggghj<em>ghjgh<u>ghjhgjghj</u></em></p>",
+         "title": "Aeritatis et quasi architecto beatae vitae dicta sunt explicabo gaps architecto beatae vitae dicta sunt explicabo gaps",
+         "created_at": "2020-07-18 5:57:43.8872",
+         "author": {
+            "user_id": "user_id",
+            "name": "name",
+            "profile_pic_url": "https://picsum.photos/200"
+         },
+
+         "is_editable": false,
+         "total_comments_count": 0
+      },
+      {
+         "discussion_id": "03",
+         "title": "Aeritatis et quasi architecto beatae vitae dicta sunt explicabo gaps architecto beatae vitae dicta sunt explicabo gaps",
+         "description": "<p style='color:red'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore dsadxs magnadddffcd aliqua ncididunt ut labore et <i>dolore</i> dsadxs magnadddffcd aliqua.</p>",
+         "created_at": "2020-07-18 5:57:43.8872",
+         "author": {
+            "user_id": "user_id",
+            "name": "name",
+            "profile_pic_url": "https://picsum.photos/200"
+         },
+
+         "is_editable": true,
+         "total_comments_count": 2
+      }
+   ],
+   "total_count": 4
+}

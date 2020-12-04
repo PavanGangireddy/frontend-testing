@@ -1,0 +1,20 @@
+{
+   "card_id": "4fa85f64-5717-4562-b3fc-2c963f66afa0sfsdfsd",
+   "card_title": "Card Title for Cypress Testing",
+   "notes": "Cypress testing card notes",
+   "priority": 5,
+   "label": null,
+   "due_datetime": null,
+   "attachments": [
+      {
+         "attachment_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+         "attachment_url": "http://www.ibhubs.co.in",
+         "creation_datetime": "05-08-2020, 12:12:28"
+      },
+      {
+         "attachment_id": "3fa85f65-5717-4562-b3fc-2c963f66afa6",
+         "attachment_url": "http://www.google.com",
+         "creation_datetime": "12-12-2012, 12:12:28"
+      }
+   ]
+}

@@ -1,0 +1,14 @@
+{
+   "getTimer": {
+      "duration_in_seconds": 0,
+      "is_running": false
+   },
+   "startTimer": {
+      "duration_in_seconds": 0,
+      "is_running": true
+   },
+   "stopTimer": {
+      "duration_in_seconds": 1731,
+      "is_running": false
+   }
+}

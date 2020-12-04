@@ -1,0 +1,60 @@
+{
+   "workbooks": [
+      {
+         "workbook_id": "0",
+         "workbook_name": "Workbook 1",
+         "is_pinned": true,
+         "last_modified": "27-06-2020"
+      },
+      {
+         "workbook_id": "1",
+         "workbook_name": "Workbook 2",
+         "is_pinned": true,
+         "last_modified": "27-06-2020"
+      },
+      {
+         "workbook_id": "2",
+         "workbook_name": "Workbook 3",
+         "is_pinned": true,
+         "last_modified": "27-06-2020"
+      },
+      {
+         "workbook_id": "3",
+         "workbook_name": "Workbook 4",
+         "is_pinned": true,
+         "last_modified": "27-06-2020"
+      },
+      {
+         "workbook_id": "4",
+         "workbook_name": "Workbook 5",
+         "is_pinned": false,
+         "last_modified": "27-06-2020"
+      },
+      {
+         "workbook_id": "5",
+         "workbook_name": "Workbook 6",
+         "is_pinned": false,
+         "last_modified": "27-06-2020"
+      }
+   ],
+   "folders": [
+      {
+         "folder_id": "0",
+         "folder_name": "Folder 1",
+         "is_starred": true,
+         "last_modified": "27-06-2020"
+      },
+      {
+         "folder_id": "1",
+         "folder_name": "Folder 2",
+         "is_starred": true,
+         "last_modified": "27-06-2020"
+      },
+      {
+         "folder_id": "2",
+         "folder_name": "Folder 3",
+         "is_starred": false,
+         "last_modified": "27-06-2020"
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "published_workbooks": [
+      {
+         "workbook_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+         "workbook_name": "Workbook 1",
+         "published_date_time": "2020-08-26T15:20:24.556550",
+         "total_selected_users_count": 512,
+         "published_users_count": 121
+      },
+      {
+         "workbook_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+         "workbook_name": "Workbook 2",
+         "published_date_time": "2020-08-26T15:20:24.556550",
+         "total_selected_users_count": 500,
+         "published_users_count": 323
+      },
+      {
+         "workbook_id": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
+
+         "workbook_name": "Workbook 3",
+         "published_date_time": "2020-08-26T15:20:24.556550",
+         "total_selected_users_count": 412,
+         "published_users_count": 111
+      },
+      {
+         "workbook_id": "3fa85f64-5717-4562-b3fc-2c963f66afa9",
+
+         "workbook_name": "Workbook 4",
+         "published_date_time": "2020-08-26T15:20:24.556550",
+         "total_selected_users_count": 312,
+         "published_users_count": 156
+      },
+      {
+         "workbook_id": "3fa85f64-5717-4562-b3fc-2c963f66af16",
+
+         "workbook_name": "Workbook 5",
+         "published_date_time": "2020-08-26T15:20:24.556550",
+         "total_selected_users_count": 212,
+         "published_users_count": 200
+      },
+      {
+         "workbook_id": "3fa85f64-5717-4562-b3fc-2c963f66af26",
+
+         "workbook_name": "Workbook 6",
+         "published_date_time": "2020-08-26T15:20:24.556550",
+         "total_selected_users_count": 612,
+         "published_users_count": 565
+      }
+   ]
+}

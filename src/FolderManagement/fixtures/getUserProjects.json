@@ -1,0 +1,44 @@
+[
+   {
+      "folder_id": "0",
+      "folder_name": "Folder 1 Folder 1 Fo",
+      "last_modified": "2020-08-26T15:20:24.556550",
+      "is_published_by_us": true,
+      "is_locked": true
+   },
+   {
+      "folder_id": "1",
+      "folder_name": "Folder 2",
+      "last_modified": "2020-08-26T15:20:24.556550",
+      "is_published_by_us": true,
+      "is_locked": false
+   },
+   {
+      "folder_id": "2",
+      "folder_name": "Folder 3",
+      "last_modified": "2020-08-26T15:20:24.556550",
+      "is_published_by_us": true,
+      "is_locked": true
+   },
+   {
+      "folder_id": "3",
+      "folder_name": "Folder 4",
+      "last_modified": "2020-08-26T15:20:24.556550",
+      "is_published_by_us": true,
+      "is_locked": false
+   },
+   {
+      "folder_id": "4",
+      "folder_name": "Folder 5",
+      "last_modified": "2020-08-26T15:20:24.556550",
+      "is_published_by_us": true,
+      "is_locked": false
+   },
+   {
+      "folder_id": "5",
+      "folder_name": "Folder 6",
+      "last_modified": "2020-08-26T15:20:24.556550",
+      "is_published_by_us": true,
+      "is_locked": true
+   }
+]

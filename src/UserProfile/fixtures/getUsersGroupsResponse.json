@@ -1,0 +1,28 @@
+{
+   "groups": [
+      {
+         "group_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+         "name": "RCB"
+      },
+      {
+         "group_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+         "name": "CSK"
+      },
+      {
+         "group_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+         "name": "MI"
+      },
+      {
+         "group_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+         "name": "RR"
+      },
+      {
+         "group_id": "3fa85f64-5717-4562-b3fc-2c963f66afa5",
+         "name": "SRH"
+      },
+      {
+         "group_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+         "name": "DC"
+      }
+   ]
+}

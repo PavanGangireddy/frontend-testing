@@ -1,0 +1,9 @@
+.baseModalStyles {
+   border-radius: 8px;
+   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.03);
+   align-self: center;
+}
+
+.baseModalStyles:focus {
+   outline: none;
+}

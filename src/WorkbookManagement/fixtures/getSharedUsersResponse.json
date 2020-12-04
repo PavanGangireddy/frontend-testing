@@ -1,0 +1,26 @@
+[
+   {
+      "profile_pic_url": "https://d1ov0p6puz91hu.cloudfront.net/logos/iBhubs_logo.svg",
+      "name": "Ganesh Kosuri",
+      "role": "Owner",
+      "email": "ganesh.kosuri@ibhubs.co.in"
+   },
+   {
+      "profile_pic_url": "https://d1ov0p6puz91hu.cloudfront.net/logos/iBhubs_logo.svg",
+      "name": "Baba Fakruddin",
+      "role": "Viewer",
+      "email": "baba.shaik@ibhubs.co.in"
+   },
+   {
+      "profile_pic_url": "https://d1ov0p6puz91hu.cloudfront.net/logos/iBhubs_logo.svg",
+      "name": "Hafeez",
+      "role": "Commentor",
+      "email": "ganesh.kosuri@ibhubs.co.in"
+   },
+   {
+      "profile_pic_url": "https://d1ov0p6puz91hu.cloudfront.net/logos/iBhubs_logo.svg",
+      "name": "Nagesh",
+      "role": "Editor",
+      "email": "baba.shaik@ibhubs.co.in"
+   }
+]
